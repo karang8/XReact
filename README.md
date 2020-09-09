@@ -84,11 +84,6 @@ it('what should it give', function() {
 
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - The Language used
 
-## Authors
-
-- **Nikhil Jain** - _Initial work_ - [Github](https://github.com/nikhilja1n)
-- **Karan Arora** - _Initial work_ - [Github](https://github.com/karang8)
-- **Lokpati Mishra** - _Initial work_ - [Github](https://github.com/lokpatimishra)
 
 ## License
 

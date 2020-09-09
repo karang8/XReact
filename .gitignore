@@ -62,5 +62,6 @@ typings/
 
 .eslintrc.js
 
+.vscode
 package-lock.json
 package.json
